@@ -1,0 +1,11 @@
+/Users/golf/Projects/RestApiClientExample/RestApiClientExample/bin/Debug/netcoreapp2.1/RestApiClientExample.deps.json
+/Users/golf/Projects/RestApiClientExample/RestApiClientExample/bin/Debug/netcoreapp2.1/RestApiClientExample.runtimeconfig.json
+/Users/golf/Projects/RestApiClientExample/RestApiClientExample/bin/Debug/netcoreapp2.1/RestApiClientExample.runtimeconfig.dev.json
+/Users/golf/Projects/RestApiClientExample/RestApiClientExample/bin/Debug/netcoreapp2.1/RestApiClientExample.dll
+/Users/golf/Projects/RestApiClientExample/RestApiClientExample/bin/Debug/netcoreapp2.1/RestApiClientExample.pdb
+/Users/golf/Projects/RestApiClientExample/RestApiClientExample/obj/Debug/netcoreapp2.1/RestApiClientExample.csprojAssemblyReference.cache
+/Users/golf/Projects/RestApiClientExample/RestApiClientExample/obj/Debug/netcoreapp2.1/RestApiClientExample.csproj.CoreCompileInputs.cache
+/Users/golf/Projects/RestApiClientExample/RestApiClientExample/obj/Debug/netcoreapp2.1/RestApiClientExample.AssemblyInfoInputs.cache
+/Users/golf/Projects/RestApiClientExample/RestApiClientExample/obj/Debug/netcoreapp2.1/RestApiClientExample.AssemblyInfo.cs
+/Users/golf/Projects/RestApiClientExample/RestApiClientExample/obj/Debug/netcoreapp2.1/RestApiClientExample.dll
+/Users/golf/Projects/RestApiClientExample/RestApiClientExample/obj/Debug/netcoreapp2.1/RestApiClientExample.pdb
